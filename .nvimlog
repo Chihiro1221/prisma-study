@@ -1,0 +1,2 @@
+WARN  2022-08-07T16:05:38.935 88892 log_path_init:96: Failed to create directory /Users/haonan/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-08-07T16:12:59.864 89134 log_path_init:96: Failed to create directory /Users/haonan/.cache/nvim for writing logs: Unknown system error 1
